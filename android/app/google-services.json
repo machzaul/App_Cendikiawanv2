@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916986399709",
+    "project_id": "appcendikiawan",
+    "storage_bucket": "appcendikiawan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916986399709:android:d90487ead364da58cfc434",
+        "android_client_info": {
+          "package_name": "com.example.Appcendikiawan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa7VpfczEammoYB9gsFCx8WwyhnckWUF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
